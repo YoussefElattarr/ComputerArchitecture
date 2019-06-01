@@ -1,0 +1,10 @@
+/ALU.class
+/Decode.class
+/Execute.class
+/Instruction.class
+/InstructionFetch.class
+/Main$1.class
+/Main.class
+/Memory.class
+/Pipeline.class
+/WriteBack.class
